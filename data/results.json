@@ -1,0 +1,2887 @@
+[
+  {
+    "department": "001",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "001",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "001",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "001",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "001",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "002",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "002",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "002",
+    "number": "03",
+    "premier": "SOC"
+  },
+  {
+    "department": "002",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "002",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "003",
+    "number": "01",
+    "premier": "COM"
+  },
+  {
+    "department": "003",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "003",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "004",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "004",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "005",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "005",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "006",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "006",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "006",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "006",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "006",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "006",
+    "number": "06",
+    "premier": "LR"
+  },
+  {
+    "department": "006",
+    "number": "07",
+    "premier": "LR"
+  },
+  {
+    "department": "006",
+    "number": "08",
+    "premier": "LR"
+  },
+  {
+    "department": "006",
+    "number": "09",
+    "premier": "LR"
+  },
+  {
+    "department": "007",
+    "number": "01",
+    "premier": "SOC"
+  },
+  {
+    "department": "007",
+    "number": "02",
+    "premier": "SOC"
+  },
+  {
+    "department": "007",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "008",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "008",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "008",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "009",
+    "number": "01",
+    "premier": "FI"
+  },
+  {
+    "department": "009",
+    "number": "02",
+    "premier": "FI"
+  },
+  {
+    "department": "010",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "010",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "010",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "011",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "011",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "011",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "012",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "012",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "012",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "013",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "013",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "013",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "013",
+    "number": "04",
+    "premier": "FI"
+  },
+  {
+    "department": "013",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "013",
+    "number": "06",
+    "premier": "LR"
+  },
+  {
+    "department": "013",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "013",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "013",
+    "number": "09",
+    "premier": "LR"
+  },
+  {
+    "department": "013",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "013",
+    "number": "11",
+    "premier": "MDM"
+  },
+  {
+    "department": "013",
+    "number": "12",
+    "premier": "LR"
+  },
+  {
+    "department": "013",
+    "number": "13",
+    "premier": "COM"
+  },
+  {
+    "department": "013",
+    "number": "14",
+    "premier": "REM"
+  },
+  {
+    "department": "013",
+    "number": "15",
+    "premier": "LR"
+  },
+  {
+    "department": "013",
+    "number": "16",
+    "premier": "REM"
+  },
+  {
+    "department": "014",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "014",
+    "number": "02",
+    "premier": "SOC"
+  },
+  {
+    "department": "014",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "014",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "014",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "014",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "015",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "015",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "016",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "016",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "016",
+    "number": "03",
+    "premier": "SOC"
+  },
+  {
+    "department": "017",
+    "number": "01",
+    "premier": "DVG"
+  },
+  {
+    "department": "017",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "017",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "017",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "017",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "018",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "018",
+    "number": "02",
+    "premier": "MDM"
+  },
+  {
+    "department": "018",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "019",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "019",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "021",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "021",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "021",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "021",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "021",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "022",
+    "number": "01",
+    "premier": "MDM"
+  },
+  {
+    "department": "022",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "022",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "022",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "022",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "023",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "024",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "024",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "024",
+    "number": "03",
+    "premier": "MDM"
+  },
+  {
+    "department": "024",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "025",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "025",
+    "number": "02",
+    "premier": "ECO"
+  },
+  {
+    "department": "025",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "025",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "025",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "026",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "026",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "026",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "026",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "027",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "027",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "027",
+    "number": "03",
+    "premier": "MDM"
+  },
+  {
+    "department": "027",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "027",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "028",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "028",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "028",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "028",
+    "number": "04",
+    "premier": "UDI"
+  },
+  {
+    "department": "029",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "029",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "029",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "029",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "029",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "029",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "029",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "029",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "030",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "030",
+    "number": "02",
+    "premier": "FN"
+  },
+  {
+    "department": "030",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "030",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "030",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "030",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "02",
+    "premier": "MDM"
+  },
+  {
+    "department": "031",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "08",
+    "premier": "SOC"
+  },
+  {
+    "department": "031",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "031",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "032",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "032",
+    "number": "02",
+    "premier": "SOC"
+  },
+  {
+    "department": "033",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "03",
+    "premier": "FI"
+  },
+  {
+    "department": "033",
+    "number": "04",
+    "premier": "SOC"
+  },
+  {
+    "department": "033",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "09",
+    "premier": "MDM"
+  },
+  {
+    "department": "033",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "11",
+    "premier": "REM"
+  },
+  {
+    "department": "033",
+    "number": "12",
+    "premier": "REM"
+  },
+  {
+    "department": "034",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "034",
+    "number": "02",
+    "premier": "FI"
+  },
+  {
+    "department": "034",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "034",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "034",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "034",
+    "number": "06",
+    "premier": "FN"
+  },
+  {
+    "department": "034",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "034",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "034",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "035",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "035",
+    "number": "02",
+    "premier": "MDM"
+  },
+  {
+    "department": "035",
+    "number": "03",
+    "premier": "SOC"
+  },
+  {
+    "department": "035",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "035",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "035",
+    "number": "06",
+    "premier": "UDI"
+  },
+  {
+    "department": "035",
+    "number": "07",
+    "premier": "LR"
+  },
+  {
+    "department": "035",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "036",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "036",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "037",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "037",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "037",
+    "number": "03",
+    "premier": "UDI"
+  },
+  {
+    "department": "037",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "037",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "04",
+    "premier": "SOC"
+  },
+  {
+    "department": "038",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "038",
+    "number": "09",
+    "premier": "MDM"
+  },
+  {
+    "department": "038",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "039",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "039",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "039",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "040",
+    "number": "01",
+    "premier": "MDM"
+  },
+  {
+    "department": "040",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "040",
+    "number": "03",
+    "premier": "SOC"
+  },
+  {
+    "department": "041",
+    "number": "01",
+    "premier": "MDM"
+  },
+  {
+    "department": "041",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "041",
+    "number": "03",
+    "premier": "UDI"
+  },
+  {
+    "department": "042",
+    "number": "01",
+    "premier": "SOC"
+  },
+  {
+    "department": "042",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "042",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "042",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "042",
+    "number": "05",
+    "premier": "MDM"
+  },
+  {
+    "department": "042",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "043",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "043",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "044",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "044",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "044",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "044",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "044",
+    "number": "05",
+    "premier": "MDM"
+  },
+  {
+    "department": "044",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "044",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "044",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "044",
+    "number": "09",
+    "premier": "MDM"
+  },
+  {
+    "department": "044",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "045",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "045",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "045",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "045",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "045",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "045",
+    "number": "06",
+    "premier": "MDM"
+  },
+  {
+    "department": "046",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "046",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "047",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "047",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "047",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "048",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "049",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "049",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "049",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "049",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "049",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "049",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "049",
+    "number": "07",
+    "premier": "MDM"
+  },
+  {
+    "department": "050",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "050",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "050",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "050",
+    "number": "04",
+    "premier": "DIV"
+  },
+  {
+    "department": "051",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "051",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "051",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "051",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "051",
+    "number": "05",
+    "premier": "UDI"
+  },
+  {
+    "department": "052",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "052",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "053",
+    "number": "01",
+    "premier": "SOC"
+  },
+  {
+    "department": "053",
+    "number": "02",
+    "premier": "MDM"
+  },
+  {
+    "department": "053",
+    "number": "03",
+    "premier": "UDI"
+  },
+  {
+    "department": "054",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "054",
+    "number": "02",
+    "premier": "MDM"
+  },
+  {
+    "department": "054",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "054",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "054",
+    "number": "05",
+    "premier": "SOC"
+  },
+  {
+    "department": "054",
+    "number": "06",
+    "premier": "FI"
+  },
+  {
+    "department": "055",
+    "number": "01",
+    "premier": "UDI"
+  },
+  {
+    "department": "055",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "056",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "056",
+    "number": "02",
+    "premier": "DIV"
+  },
+  {
+    "department": "056",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "056",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "056",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "056",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "057",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "057",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "057",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "057",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "057",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "057",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "057",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "057",
+    "number": "08",
+    "premier": "MDM"
+  },
+  {
+    "department": "057",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "058",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "058",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "01",
+    "premier": "FI"
+  },
+  {
+    "department": "059",
+    "number": "02",
+    "premier": "FI"
+  },
+  {
+    "department": "059",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "059",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "07",
+    "premier": "UDI"
+  },
+  {
+    "department": "059",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "10",
+    "premier": "LR"
+  },
+  {
+    "department": "059",
+    "number": "11",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "12",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "13",
+    "premier": "DVG"
+  },
+  {
+    "department": "059",
+    "number": "14",
+    "premier": "LR"
+  },
+  {
+    "department": "059",
+    "number": "15",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "16",
+    "premier": "COM"
+  },
+  {
+    "department": "059",
+    "number": "17",
+    "premier": "REM"
+  },
+  {
+    "department": "059",
+    "number": "18",
+    "premier": "UDI"
+  },
+  {
+    "department": "059",
+    "number": "19",
+    "premier": "FN"
+  },
+  {
+    "department": "059",
+    "number": "20",
+    "premier": "COM"
+  },
+  {
+    "department": "059",
+    "number": "21",
+    "premier": "UDI"
+  },
+  {
+    "department": "060",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "060",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "060",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "060",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "060",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "060",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "060",
+    "number": "07",
+    "premier": "LR"
+  },
+  {
+    "department": "061",
+    "number": "01",
+    "premier": "SOC"
+  },
+  {
+    "department": "061",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "061",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "062",
+    "number": "01",
+    "premier": "MDM"
+  },
+  {
+    "department": "062",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "062",
+    "number": "03",
+    "premier": "FN"
+  },
+  {
+    "department": "062",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "062",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "062",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "062",
+    "number": "07",
+    "premier": "LR"
+  },
+  {
+    "department": "062",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "062",
+    "number": "09",
+    "premier": "MDM"
+  },
+  {
+    "department": "062",
+    "number": "10",
+    "premier": "FN"
+  },
+  {
+    "department": "062",
+    "number": "11",
+    "premier": "FN"
+  },
+  {
+    "department": "062",
+    "number": "12",
+    "premier": "FN"
+  },
+  {
+    "department": "063",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "063",
+    "number": "02",
+    "premier": "SOC"
+  },
+  {
+    "department": "063",
+    "number": "03",
+    "premier": "MDM"
+  },
+  {
+    "department": "063",
+    "number": "04",
+    "premier": "MDM"
+  },
+  {
+    "department": "063",
+    "number": "05",
+    "premier": "COM"
+  },
+  {
+    "department": "064",
+    "number": "01",
+    "premier": "MDM"
+  },
+  {
+    "department": "064",
+    "number": "02",
+    "premier": "MDM"
+  },
+  {
+    "department": "064",
+    "number": "03",
+    "premier": "SOC"
+  },
+  {
+    "department": "064",
+    "number": "04",
+    "premier": "DVD"
+  },
+  {
+    "department": "064",
+    "number": "05",
+    "premier": "MDM"
+  },
+  {
+    "department": "064",
+    "number": "06",
+    "premier": "MDM"
+  },
+  {
+    "department": "065",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "065",
+    "number": "02",
+    "premier": "RDG"
+  },
+  {
+    "department": "066",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "066",
+    "number": "02",
+    "premier": "FN"
+  },
+  {
+    "department": "066",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "066",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "067",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "067",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "067",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "067",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "067",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "067",
+    "number": "06",
+    "premier": "LR"
+  },
+  {
+    "department": "067",
+    "number": "07",
+    "premier": "LR"
+  },
+  {
+    "department": "067",
+    "number": "08",
+    "premier": "LR"
+  },
+  {
+    "department": "067",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "068",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "068",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "068",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "068",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "068",
+    "number": "05",
+    "premier": "DVD"
+  },
+  {
+    "department": "068",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "08",
+    "premier": "LR"
+  },
+  {
+    "department": "069",
+    "number": "09",
+    "premier": "LR"
+  },
+  {
+    "department": "069",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "11",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "12",
+    "premier": "MDM"
+  },
+  {
+    "department": "069",
+    "number": "13",
+    "premier": "REM"
+  },
+  {
+    "department": "069",
+    "number": "14",
+    "premier": "REM"
+  },
+  {
+    "department": "070",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "070",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "071",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "071",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "071",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "071",
+    "number": "04",
+    "premier": "SOC"
+  },
+  {
+    "department": "071",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "072",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "072",
+    "number": "02",
+    "premier": "SOC"
+  },
+  {
+    "department": "072",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "072",
+    "number": "04",
+    "premier": "SOC"
+  },
+  {
+    "department": "072",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "073",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "073",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "073",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "073",
+    "number": "04",
+    "premier": "MDM"
+  },
+  {
+    "department": "074",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "074",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "074",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "074",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "074",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "074",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "075",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "11",
+    "premier": "MDM"
+  },
+  {
+    "department": "075",
+    "number": "12",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "13",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "14",
+    "premier": "LR"
+  },
+  {
+    "department": "075",
+    "number": "15",
+    "premier": "SOC"
+  },
+  {
+    "department": "075",
+    "number": "16",
+    "premier": "REM"
+  },
+  {
+    "department": "075",
+    "number": "17",
+    "premier": "FI"
+  },
+  {
+    "department": "075",
+    "number": "18",
+    "premier": "LR"
+  },
+  {
+    "department": "076",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "076",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "076",
+    "number": "03",
+    "premier": "COM"
+  },
+  {
+    "department": "076",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "076",
+    "number": "05",
+    "premier": "SOC"
+  },
+  {
+    "department": "076",
+    "number": "06",
+    "premier": "COM"
+  },
+  {
+    "department": "076",
+    "number": "07",
+    "premier": "LR"
+  },
+  {
+    "department": "076",
+    "number": "08",
+    "premier": "COM"
+  },
+  {
+    "department": "076",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "076",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "077",
+    "number": "01",
+    "premier": "MDM"
+  },
+  {
+    "department": "077",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "077",
+    "number": "03",
+    "premier": "UDI"
+  },
+  {
+    "department": "077",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "077",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "077",
+    "number": "06",
+    "premier": "LR"
+  },
+  {
+    "department": "077",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "077",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "077",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "077",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "077",
+    "number": "11",
+    "premier": "SOC"
+  },
+  {
+    "department": "078",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "07",
+    "premier": "MDM"
+  },
+  {
+    "department": "078",
+    "number": "08",
+    "premier": "LR"
+  },
+  {
+    "department": "078",
+    "number": "09",
+    "premier": "MDM"
+  },
+  {
+    "department": "078",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "11",
+    "premier": "REM"
+  },
+  {
+    "department": "078",
+    "number": "12",
+    "premier": "REM"
+  },
+  {
+    "department": "079",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "079",
+    "number": "02",
+    "premier": "SOC"
+  },
+  {
+    "department": "079",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "080",
+    "number": "01",
+    "premier": "FI"
+  },
+  {
+    "department": "080",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "080",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "080",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "080",
+    "number": "05",
+    "premier": "UDI"
+  },
+  {
+    "department": "081",
+    "number": "01",
+    "premier": "DVD"
+  },
+  {
+    "department": "081",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "081",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "082",
+    "number": "01",
+    "premier": "SOC"
+  },
+  {
+    "department": "082",
+    "number": "02",
+    "premier": "RDG"
+  },
+  {
+    "department": "083",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "083",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "083",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "083",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "083",
+    "number": "05",
+    "premier": "MDM"
+  },
+  {
+    "department": "083",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "083",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "083",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "084",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "084",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "084",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "084",
+    "number": "04",
+    "premier": "EXD"
+  },
+  {
+    "department": "084",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "085",
+    "number": "01",
+    "premier": "MDM"
+  },
+  {
+    "department": "085",
+    "number": "02",
+    "premier": "MDM"
+  },
+  {
+    "department": "085",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "085",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "085",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "086",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "086",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "086",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "086",
+    "number": "04",
+    "premier": "MDM"
+  },
+  {
+    "department": "087",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "087",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "087",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "088",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "088",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "088",
+    "number": "03",
+    "premier": "DVD"
+  },
+  {
+    "department": "088",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "089",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "089",
+    "number": "02",
+    "premier": "UDI"
+  },
+  {
+    "department": "089",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "090",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "090",
+    "number": "02",
+    "premier": "UDI"
+  },
+  {
+    "department": "091",
+    "number": "01",
+    "premier": "DVG"
+  },
+  {
+    "department": "091",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "091",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "091",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "091",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "091",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "091",
+    "number": "07",
+    "premier": "LR"
+  },
+  {
+    "department": "091",
+    "number": "08",
+    "premier": "DLF"
+  },
+  {
+    "department": "091",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "091",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "01",
+    "premier": "COM"
+  },
+  {
+    "department": "092",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "06",
+    "premier": "LR"
+  },
+  {
+    "department": "092",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "09",
+    "premier": "LR"
+  },
+  {
+    "department": "092",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "11",
+    "premier": "REM"
+  },
+  {
+    "department": "092",
+    "number": "12",
+    "premier": "MDM"
+  },
+  {
+    "department": "092",
+    "number": "13",
+    "premier": "REM"
+  },
+  {
+    "department": "093",
+    "number": "01",
+    "premier": "FI"
+  },
+  {
+    "department": "093",
+    "number": "02",
+    "premier": "FI"
+  },
+  {
+    "department": "093",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "093",
+    "number": "04",
+    "premier": "COM"
+  },
+  {
+    "department": "093",
+    "number": "05",
+    "premier": "UDI"
+  },
+  {
+    "department": "093",
+    "number": "06",
+    "premier": "FI"
+  },
+  {
+    "department": "093",
+    "number": "07",
+    "premier": "FI"
+  },
+  {
+    "department": "093",
+    "number": "08",
+    "premier": "REM"
+  },
+  {
+    "department": "093",
+    "number": "09",
+    "premier": "FI"
+  },
+  {
+    "department": "093",
+    "number": "10",
+    "premier": "LR"
+  },
+  {
+    "department": "093",
+    "number": "11",
+    "premier": "FI"
+  },
+  {
+    "department": "093",
+    "number": "12",
+    "premier": "REM"
+  },
+  {
+    "department": "094",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "094",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "094",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "094",
+    "number": "04",
+    "premier": "MDM"
+  },
+  {
+    "department": "094",
+    "number": "05",
+    "premier": "LR"
+  },
+  {
+    "department": "094",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "094",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "094",
+    "number": "08",
+    "premier": "LR"
+  },
+  {
+    "department": "094",
+    "number": "09",
+    "premier": "SOC"
+  },
+  {
+    "department": "094",
+    "number": "10",
+    "premier": "FI"
+  },
+  {
+    "department": "094",
+    "number": "11",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "06",
+    "premier": "MDM"
+  },
+  {
+    "department": "095",
+    "number": "07",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "08",
+    "premier": "SOC"
+  },
+  {
+    "department": "095",
+    "number": "09",
+    "premier": "REM"
+  },
+  {
+    "department": "095",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "971",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "971",
+    "number": "02",
+    "premier": "DVG"
+  },
+  {
+    "department": "971",
+    "number": "03",
+    "premier": "DVG"
+  },
+  {
+    "department": "971",
+    "number": "04",
+    "premier": "SOC"
+  },
+  {
+    "department": "972",
+    "number": "01",
+    "premier": "DVG"
+  },
+  {
+    "department": "972",
+    "number": "02",
+    "premier": "DVG"
+  },
+  {
+    "department": "972",
+    "number": "03",
+    "premier": "DVG"
+  },
+  {
+    "department": "972",
+    "number": "04",
+    "premier": "REG"
+  },
+  {
+    "department": "973",
+    "number": "01",
+    "premier": "DVG"
+  },
+  {
+    "department": "973",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "974",
+    "number": "01",
+    "premier": "SOC"
+  },
+  {
+    "department": "974",
+    "number": "02",
+    "premier": "DVG"
+  },
+  {
+    "department": "974",
+    "number": "03",
+    "premier": "LR"
+  },
+  {
+    "department": "974",
+    "number": "04",
+    "premier": "LR"
+  },
+  {
+    "department": "974",
+    "number": "05",
+    "premier": "DVG"
+  },
+  {
+    "department": "974",
+    "number": "06",
+    "premier": "LR"
+  },
+  {
+    "department": "974",
+    "number": "07",
+    "premier": "MDM"
+  },
+  {
+    "department": "975",
+    "number": "01",
+    "premier": "RDG"
+  },
+  {
+    "department": "976",
+    "number": "01",
+    "premier": "SOC"
+  },
+  {
+    "department": "976",
+    "number": "02",
+    "premier": "LR"
+  },
+  {
+    "department": "977",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "986",
+    "number": "01",
+    "premier": "DVG"
+  },
+  {
+    "department": "987",
+    "number": "01",
+    "premier": "UDI"
+  },
+  {
+    "department": "987",
+    "number": "02",
+    "premier": "DVD"
+  },
+  {
+    "department": "987",
+    "number": "03",
+    "premier": "REG"
+  },
+  {
+    "department": "988",
+    "number": "01",
+    "premier": "DVD"
+  },
+  {
+    "department": "988",
+    "number": "02",
+    "premier": "UDI"
+  },
+  {
+    "department": "02A",
+    "number": "01",
+    "premier": "LR"
+  },
+  {
+    "department": "02A",
+    "number": "02",
+    "premier": "REG"
+  },
+  {
+    "department": "02B",
+    "number": "01",
+    "premier": "REG"
+  },
+  {
+    "department": "02B",
+    "number": "02",
+    "premier": "REG"
+  },
+  {
+    "department": "099",
+    "number": "01",
+    "premier": "REM"
+  },
+  {
+    "department": "099",
+    "number": "02",
+    "premier": "REM"
+  },
+  {
+    "department": "099",
+    "number": "03",
+    "premier": "REM"
+  },
+  {
+    "department": "099",
+    "number": "04",
+    "premier": "REM"
+  },
+  {
+    "department": "099",
+    "number": "05",
+    "premier": "REM"
+  },
+  {
+    "department": "099",
+    "number": "06",
+    "premier": "REM"
+  },
+  {
+    "department": "099",
+    "number": "07",
+    "premier": "MDM"
+  },
+  {
+    "department": "099",
+    "number": "08",
+    "premier": "UDI"
+  },
+  {
+    "department": "099",
+    "number": "09",
+    "premier": "DIV"
+  },
+  {
+    "department": "099",
+    "number": "10",
+    "premier": "REM"
+  },
+  {
+    "department": "099",
+    "number": "11",
+    "premier": "REM"
+  }
+]
