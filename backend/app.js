@@ -2,6 +2,7 @@ const axios = require("axios").default;
 const csv = require("csv-parser");
 const JSDOM = require("jsdom").JSDOM;
 const fs = require("fs");
+const config = require("../data/config.json");
 
 const nuances = [];
 const loadNuances = () => {
@@ -66,6 +67,9 @@ const groupByNuance = () => {
 const scrutation = async () => {
   return new Promise(async (resolve, reject) => {
     for (let index = 0; index < circonscriptions.length; index++) {
+      if (index % 10 === 0) {
+        console.log(index, " / ", circonscriptions.length);
+      }
       const circ = circonscriptions[index];
       try {
         circ.premier = await getDataForCirconscription(circ);
@@ -78,8 +82,7 @@ const scrutation = async () => {
 };
 
 const getDataForCirconscription = async (circ) => {
-  const url = `https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives-2017/(path)/legislatives-2017/${circ.department}/${circ.department}${circ.number}.html`;
-
+  const url = `${config.baseUrl}/${circ.department}/${circ.department}${circ.number}.html`;
   try {
     let page = await axios.get(url);
     const { document } = new JSDOM(page.data).window;
